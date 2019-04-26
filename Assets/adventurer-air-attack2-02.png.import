@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/icon.png-487276ed1e3a0c39cad0279d744ee560.stex"
+path="res://.import/adventurer-air-attack2-02.png-995111d66d0a784e09c147e7f07dc3a0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://icon.png"
-dest_files=[ "res://.import/icon.png-487276ed1e3a0c39cad0279d744ee560.stex" ]
+source_file="res://Assets/adventurer-air-attack2-02.png"
+dest_files=[ "res://.import/adventurer-air-attack2-02.png-995111d66d0a784e09c147e7f07dc3a0.stex" ]
 
 [params]
 

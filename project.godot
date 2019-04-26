@@ -16,7 +16,19 @@ _global_script_class_icons={
 [application]
 
 config/name="TestProject1"
+run/main_scene="res://Main.tscn"
 config/icon="res://icon.png"
+
+[autoload]
+
+store="*res://store.gd"
+action_types="*res://action_types.gd"
+actions="*res://actions.gd"
+reducers="*res://reducers.gd"
+
+[display]
+
+window/size/height=480
 
 [rendering]
 
